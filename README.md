@@ -2,7 +2,7 @@
 I'm an Engineer @Noon, 
 
 
-![adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaa24&count_private=true&show_icons=true&theme=radical)
+![adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaa24&count_private=false&show_icons=true&theme=radical)
    
 _Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
   
