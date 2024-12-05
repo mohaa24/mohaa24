@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm [Adnan](https://github.com/readme/mohaa24)...
+I'm an Engineer @Noon, 
 
+
+![adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaa24&count_private=true&show_icons=true&theme=radical)
+   
+_Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
+  
 <!--
 **mohaa24/mohaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
