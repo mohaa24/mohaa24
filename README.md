@@ -1,15 +1,5 @@
-<!--
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
 
-## technologies Icons 
-https://simpleicons.org/
-
--->
-.
-<br>
-<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mohamed%20Adnan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/)
 [![Mail](https://img.shields.io/badge/msmathnan@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:)
 <br>
@@ -19,7 +9,7 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/)
 [![HitCount](http://hits.dwyl.com/Mohamed Adnan/Mohamed Adnan.svg)](http://hits.dwyl.com/Mohamed Adnan/Mohamed Adnan) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Mohamed Adnan</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋! I'm Mohamed Adnan, Currently working for Noon.</strong></samp></h2>
 <h3 align='center'><strong><a href="https://Mohamed Adnan.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Node/React developer || Data Science | ML </p>
 
