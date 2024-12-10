@@ -9,13 +9,11 @@
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/)
 [![HitCount](http://hits.dwyl.com/Mohamed Adnan/Mohamed Adnan.svg)](http://hits.dwyl.com/Mohamed Adnan/Mohamed Adnan) -->
 
-<h2 align='center'><samp><strong>Hi there 👋! I'm Mohamed Adnan, Currently working for Noon.</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋! I'm Adnan, Currently working for Noon.</strong></samp></h2>
 <h3 align='center'><strong><a href="https://Mohamed Adnan.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Node/React developer || Data Science | ML </p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
-
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend.
+<p align='center'>I’m a self-taught developer. Constantly exploring new technologies, I thrive on building scalable web solutions with modern tools and frameworks. A lifelong learner, I’m always on the lookout for exciting challenges that push the boundaries of innovation. 🚀</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -41,7 +39,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 </br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Mohaa24" />
+<p align='center'>
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=anuraghazra" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
